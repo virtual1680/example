@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="244" height="60" viewBox="0 0 244 60">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #707070;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #003294;
+      }
+
+      .cls-4 {
+        fill: #1ce0ff;
+        opacity: 0.26;
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_144" data-name="矩形 144" class="cls-1" width="244" height="60" transform="translate(852 178.957)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0850fa"/>
+      <stop offset="1" stop-color="#1ccdff"/>
+    </linearGradient>
+  </defs>
+  <g id="弹窗标题底部" class="cls-2" transform="translate(-852 -178.957)">
+    <g id="组_290" data-name="组 290" transform="translate(545.108 178.731)">
+      <path id="路径_410" data-name="路径 410" class="cls-3" d="M1121.169,217H600V157h521.169l29.712,30Z" transform="translate(-600 -157)"/>
+      <path id="路径_411" data-name="路径 411" class="cls-4" d="M1121.169,217H600V157h521.169l29.712,30Z" transform="translate(-600 -157)"/>
+      <path id="路径_412" data-name="路径 412" class="cls-5" d="M1120.586,157.905,1149.4,187l-28.815,29.094H601.178V157.905h519.408m.583-.905H600v60h521.169l29.713-30-29.713-30Z" transform="translate(-600 -157)"/>
+    </g>
+  </g>
+</svg>

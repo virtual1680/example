@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1090.132" height="1090.133" viewBox="0 0 1090.132 1090.133">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.51;
+        mix-blend-mode: color-dodge;
+        isolation: isolate;
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.36" y1="0.055" x2="0.73" y2="1.231" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8dbff8"/>
+      <stop offset="0.085" stop-color="#f6f6f6" stop-opacity="0.969"/>
+      <stop offset="0.219" stop-color="#e0e0e0" stop-opacity="0.882"/>
+      <stop offset="0.385" stop-color="#bcbcbc" stop-opacity="0.737"/>
+      <stop offset="0.576" stop-color="#898989" stop-opacity="0.537"/>
+      <stop offset="0.788" stop-color="#484848" stop-opacity="0.282"/>
+      <stop offset="1" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path id="线圈" class="cls-1" d="M2623.066,2230.133c-300.551,0-545.066-244.516-545.066-545.067S2322.516,1140,2623.066,1140s545.066,244.516,545.066,545.066S2923.616,2230.133,2623.066,2230.133Zm0-1086.294c-298.435,0-541.228,242.792-541.228,541.228s242.792,541.227,541.228,541.227,541.228-242.792,541.228-541.227S2921.5,1143.839,2623.066,1143.839Z" transform="translate(-2078 -1140)"/>
+</svg>

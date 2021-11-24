@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35.705" height="35.704" viewBox="0 0 35.705 35.704">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.2;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        filter: url(#路径_191);
+      }
+    </style>
+    <filter id="路径_191" x="0" y="0" width="35.705" height="35.704" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="放大icon" transform="translate(7.559 4.685)">
+    <rect id="矩形_99" data-name="矩形 99" class="cls-1" width="21" height="21" transform="translate(-0.27 0.016)"/>
+    <g class="cls-3" transform="matrix(1, 0, 0, 1, -7.56, -4.68)">
+      <path id="路径_191-2" data-name="路径 191" class="cls-2" d="M0,12.964v2.844a1.9,1.9,0,0,0,1.9,1.9H4.74a.949.949,0,1,0,0-1.9H1.9V12.964a.949.949,0,1,0-1.9,0ZM5.689.949A.949.949,0,0,0,4.74,0H1.9A1.9,1.9,0,0,0,0,1.9V4.74a.949.949,0,1,0,1.9,0V1.9H4.74A.949.949,0,0,0,5.689.949Zm6.326,0a.948.948,0,0,0,.949.947h2.844V4.74a.949.949,0,0,0,1.9,0V1.9a1.9,1.9,0,0,0-1.9-1.9H12.964a.949.949,0,0,0-.949.949Zm0,15.806a.949.949,0,0,0,.949.949h2.844a1.9,1.9,0,0,0,1.9-1.9V12.964a.949.949,0,1,0-1.9,0v2.844H12.964a.949.949,0,0,0-.949.947ZM8.852,4.519A4.334,4.334,0,1,0,12.614,6.7a.867.867,0,0,0-1.5.862A2.6,2.6,0,1,1,8.852,6.251a.867.867,0,0,0,0-1.733Z" transform="translate(9 6)"/>
+    </g>
+  </g>
+</svg>

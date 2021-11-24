@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="537" height="412" viewBox="0 0 537 412">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(2,36,75,0.5);
+        stroke: #1ce0ff;
+        stroke-width: 3px;
+        opacity: 0.88;
+      }
+
+      .cls-2 {
+        fill: #1ce0ff;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.46" y1="0.5" x2="0" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1ce0ff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#03c8e8"/>
+    </linearGradient>
+  </defs>
+  <g id="登录框背景" transform="translate(-1146 -333)">
+    <path id="路径_352" data-name="路径 352" class="cls-1" d="M1854.93,1895.342H1390.479v399.089h526.08V1910.308h-39.3Z" transform="translate(-239.086 -1555.596)"/>
+    <rect id="矩形_131" data-name="矩形 131" class="cls-2" width="7" height="44" transform="translate(1148 687)"/>
+    <rect id="矩形_132" data-name="矩形 132" class="cls-2" width="7" height="11" transform="translate(1148 674)"/>
+    <rect id="矩形_133" data-name="矩形 133" class="cls-2" width="7" height="81" transform="translate(1674 403)"/>
+    <rect id="矩形_134" data-name="矩形 134" class="cls-2" width="7" height="11" transform="translate(1674 390)"/>
+    <path id="联合_18" data-name="联合 18" class="cls-3" d="M0,57V0H57V11.4H11.4V57Z" transform="translate(1146 333)"/>
+    <path id="联合_19" data-name="联合 19" class="cls-3" d="M0,57V0H57V11.4H11.4V57Z" transform="translate(1683 745) rotate(180)"/>
+  </g>
+</svg>

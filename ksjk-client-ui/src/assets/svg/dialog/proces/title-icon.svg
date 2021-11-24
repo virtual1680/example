@@ -1,0 +1,20 @@
+<svg id="弹窗图标01" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19.456" height="19.456" viewBox="0 0 19.456 19.456">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.46" y1="0.5" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1ce0ff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#03c8e8"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.46" y1="0.5" y2="0" xlink:href="#linear-gradient"/>
+  </defs>
+  <path id="联合_16" data-name="联合 16" class="cls-1" d="M0,0V10.809H10.809V8.647H2.161V0Z" transform="translate(11.813 0) rotate(45)"/>
+  <path id="联合_17" data-name="联合 17" class="cls-2" d="M0,10.809V0H10.809V2.161H2.162v8.647Z" transform="translate(15.286 11.813) rotate(135)"/>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #707070;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #1ce0ff;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_128" data-name="矩形 128" class="cls-1" width="30" height="30" transform="translate(-0.185 -0.36)"/>
+    </clipPath>
+  </defs>
+  <g id="蒙版组_9" data-name="蒙版组 9" class="cls-2" transform="translate(0.185 0.36)">
+    <path id="路径_229" data-name="路径 229" class="cls-3" d="M78.114,64.174A14.275,14.275,0,1,0,92.39,78.449,14.275,14.275,0,0,0,78.114,64.174Zm0,26.511A12.236,12.236,0,1,1,90.35,78.449,12.236,12.236,0,0,1,78.114,90.685Zm9.352-6.541a10.522,10.522,0,0,0-5.549-4.989,6.118,6.118,0,1,0-7.57-.01,10.523,10.523,0,0,0-5.56,4.971,1.016,1.016,0,1,0,1.8.937,8.483,8.483,0,0,1,15.07.022,1.016,1.016,0,1,0,1.806-.932ZM78.138,70.282a4.063,4.063,0,1,1-4.063,4.063A4.063,4.063,0,0,1,78.138,70.282Z" transform="translate(-63.056 -62.608)"/>
+  </g>
+</svg>

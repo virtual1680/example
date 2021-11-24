@@ -1,0 +1,84 @@
+@use 'sass:math';
+
+//默认设计稿的宽度
+$designWidth: 1920;
+//默认设计稿的高度
+$designHeight: 1080;
+$theme: #0fcff2;
+
+//px转为vw的函数
+@function vw($px) {
+	@return math.div($px, $designWidth) * 100vw;
+}
+//px转为vh的函数
+@function vh($px) {
+	@return math.div($px, $designHeight) * 100vh;
+}
+
+html,
+body {
+	width: 100%;
+	height: 100%;
+	padding: 0px;
+	margin: 0px;
+}
+.theme-color-tx {
+	color: $theme;
+}
+.f12 {
+	font-size: 12px;
+}
+.f14 {
+	font-size: 14px;
+}
+.f16 {
+	font-size: 16px;
+}
+.f-c-c {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.untreated {
+	font-size: 14px;
+	font-family: Source Han Sans CN;
+	font-weight: bold;
+	color: #FF3737;
+	text-shadow: 0px 0px 10px #FF3737;
+}
+.treated {
+	font-size: 14px;
+	font-family: Source Han Sans CN;
+	font-weight: bold;
+	color: #29d568;
+	text-shadow: 0px 0px 10px #29d568;
+}
+.time-color{
+	color:#1CE0FF;
+}
+
+.car-id {
+	width: 177px;
+	height: 40px;
+	background-size: 100% 100%;
+	background: url('@/assets/svg/car-id-border.svg') no-repeat;
+	font-size: 24px;
+	font-family: Source Han Sans CN;
+	font-weight: 500;
+	color: #1ce0ff;
+	line-height: 40px;
+	text-align: center;
+	&.active {
+		color: #29d568;
+		background: url('@/assets/svg/car-id-bg-selected.svg') no-repeat;
+	}
+}
+.tx-hide{
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+.cs-p{
+	cursor: pointer;
+}

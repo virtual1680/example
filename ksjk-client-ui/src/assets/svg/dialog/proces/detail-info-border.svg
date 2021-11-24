@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1116.612" height="314.723" viewBox="0 0 1116.612 314.723">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #02244b;
+        opacity: 0.7;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-6);
+      }
+
+      .cls-5, .cls-6, .cls-7 {
+        fill: #1ce0ff;
+      }
+
+      .cls-5 {
+        opacity: 0.4;
+      }
+
+      .cls-7 {
+        opacity: 0.13;
+      }
+
+      .cls-8 {
+        fill: url(#linear-gradient-9);
+      }
+
+      .cls-9 {
+        fill: url(#linear-gradient-21);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.46" y1="0.5" x2="0" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1ce0ff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#03c8e8"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-0.007" y1="0.5" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1ce0ff" stop-opacity="0"/>
+      <stop offset="0.502" stop-color="#1bd6f3"/>
+      <stop offset="1" stop-color="#03c8e8" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="0.46" y1="0.5" y2="1" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-9" x1="4.912" y1="-2.912" x2="3.957" y2="-3.866" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#08234f"/>
+      <stop offset="0.485" stop-color="#1ad1f2"/>
+      <stop offset="1" stop-color="#03275e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-21" x1="1" y1="0.5" x2="0" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1ce0ff" stop-opacity="0"/>
+      <stop offset="0" stop-color="#1bd6f3"/>
+      <stop offset="1" stop-color="#03c8e8" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="详情信息背景框" transform="translate(0 1.116)">
+    <path id="路径_189" data-name="路径 189" class="cls-1" d="M0,0H1112.611V309.941h-79.792l-9.845-8.8H931.247l-7.492,8.8H0Z" transform="translate(2 1.619)"/>
+    <g id="组_24" data-name="组 24" transform="translate(0 -0.439)">
+      <path id="联合_1" data-name="联合 1" class="cls-2" d="M0,15V0H15V3H3V15Z" transform="translate(0 0.059)"/>
+      <rect id="矩形_16" data-name="矩形 16" class="cls-3" width="1110.611" height="1" transform="translate(3 1.059)"/>
+      <path id="路径_190" data-name="路径 190" class="cls-3" d="M0,0,978.124,1.046v1L0,1Z" transform="translate(3 312)"/>
+      <rect id="矩形_18" data-name="矩形 18" class="cls-3" width="306.369" height="1" transform="translate(2 4.607) rotate(90)"/>
+      <rect id="矩形_21" data-name="矩形 21" class="cls-3" width="306.369" height="1" transform="translate(1116.124 4.607) rotate(90)"/>
+      <path id="联合_2" data-name="联合 2" class="cls-4" d="M0,0V15H15V12H3V0Z" transform="translate(1116.611 15) rotate(180)"/>
+      <path id="联合_3" data-name="联合 3" class="cls-4" d="M0,0V15H15V12H3V0Z" transform="translate(0 299)"/>
+      <path id="联合_4" data-name="联合 4" class="cls-2" d="M0,15V0H15V3H3V15Z" transform="translate(1116.611 314) rotate(180)"/>
+    </g>
+    <path id="路径_165" data-name="路径 165" class="cls-5" d="M2.459,0H7.6L4.891,3.235H0Z" transform="translate(1116.611 31.335) rotate(90)"/>
+    <path id="路径_171" data-name="路径 171" class="cls-5" d="M2.459,3.235H7.6L4.89,0H0Z" transform="translate(1113.376 281.845) rotate(-90)"/>
+    <path id="路径_166" data-name="路径 166" class="cls-5" d="M2.459,0H7.6L4.891,3.235H0Z" transform="translate(1087.735 2.971) rotate(180)"/>
+    <path id="路径_172" data-name="路径 172" class="cls-5" d="M2.459,3.235H7.6L4.89,0H0Z" transform="translate(1087.735 313.444) rotate(180)"/>
+    <path id="路径_167" data-name="路径 167" class="cls-6" d="M2.459,0H7.6L4.891,3.235H0Z" transform="translate(1116.611 24.489) rotate(90)"/>
+    <path id="路径_173" data-name="路径 173" class="cls-6" d="M2.459,3.235H7.6L4.89,0H0Z" transform="translate(1113.376 288.691) rotate(-90)"/>
+    <path id="路径_168" data-name="路径 168" class="cls-6" d="M2.459,0H7.6L4.891,3.235H0Z" transform="translate(1094.58 3.091) rotate(180)"/>
+    <path id="路径_174" data-name="路径 174" class="cls-6" d="M2.459,3.235H7.6L4.89,0H0Z" transform="translate(1094.58 313.324) rotate(180)"/>
+    <path id="路径_169" data-name="路径 169" class="cls-7" d="M2.459,0H7.6L4.891,3.235H0Z" transform="translate(1116.611 38.063) rotate(90)"/>
+    <path id="路径_175" data-name="路径 175" class="cls-7" d="M2.459,3.235H7.6L4.89,0H0Z" transform="translate(1113.376 275.117) rotate(-90)"/>
+    <path id="路径_170" data-name="路径 170" class="cls-7" d="M2.459,0H7.6L4.891,3.235H0Z" transform="translate(1081.008 2.854) rotate(180)"/>
+    <path id="路径_176" data-name="路径 176" class="cls-7" d="M2.459,3.235H7.6L4.89,0H0Z" transform="translate(1081.008 313.561) rotate(180)"/>
+    <path id="路径_177" data-name="路径 177" class="cls-5" d="M2.459,0H7.6L4.89,3.235H0Z" transform="translate(0 281.845) rotate(-90)"/>
+    <path id="路径_178" data-name="路径 178" class="cls-5" d="M2.459,0H7.6L4.89,3.235H0Z" transform="translate(28.876 310.209)"/>
+    <path id="路径_179" data-name="路径 179" class="cls-6" d="M2.459,0H7.6L4.89,3.235H0Z" transform="translate(0 288.691) rotate(-90)"/>
+    <path id="路径_180" data-name="路径 180" class="cls-6" d="M2.459,0H7.6L4.89,3.235H0Z" transform="translate(22.031 310.089)"/>
+    <path id="路径_181" data-name="路径 181" class="cls-7" d="M2.459,0H7.6L4.89,3.235H0Z" transform="translate(0 275.117) rotate(-90)"/>
+    <path id="路径_182" data-name="路径 182" class="cls-7" d="M2.459,0H7.6L4.89,3.235H0Z" transform="translate(35.603 310.326)"/>
+    <path id="路径_183" data-name="路径 183" class="cls-5" d="M2.459,3.235H7.6L4.89,0H0Z" transform="translate(3.235 30.599) rotate(90)"/>
+    <path id="路径_184" data-name="路径 184" class="cls-5" d="M2.459,3.235H7.6L4.89,0H0Z" transform="translate(28.876 -0.999)"/>
+    <path id="路径_185" data-name="路径 185" class="cls-6" d="M2.459,3.235H7.6L4.89,0H0Z" transform="translate(3.235 23.753) rotate(90)"/>
+    <path id="路径_186" data-name="路径 186" class="cls-6" d="M2.459,3.235H7.6L4.89,0H0Z" transform="translate(22.031 -0.879)"/>
+    <path id="路径_187" data-name="路径 187" class="cls-7" d="M2.459,3.235H7.6L4.89,0H0Z" transform="translate(3.235 37.328) rotate(90)"/>
+    <path id="路径_188" data-name="路径 188" class="cls-7" d="M2.459,3.235H7.6L4.89,0H0Z" transform="translate(35.603 -1.117)"/>
+    <g id="组_160" data-name="组 160" transform="translate(756.412 299.975)">
+      <g id="组_144" data-name="组 144" transform="translate(117.275 0)">
+        <path id="联合_6" data-name="联合 6" class="cls-8" d="M0,0V6.584H6.584V5.267H1.317V0Z" transform="translate(40.865 0) rotate(45)"/>
+        <path id="联合_9" data-name="联合 9" class="cls-8" d="M0,0V6.584H6.584V5.267H1.317V0Z" transform="translate(30.99 0) rotate(45)"/>
+        <path id="联合_12" data-name="联合 12" class="cls-8" d="M0,0V6.584H6.584V5.267H1.317V0Z" transform="translate(21.114 0) rotate(45)"/>
+        <path id="联合_15" data-name="联合 15" class="cls-8" d="M0,0V6.584H6.584V5.267H1.317V0Z" transform="translate(11.239 0) rotate(45)"/>
+        <path id="联合_6-2" data-name="联合 6" class="cls-8" d="M0,0V6.584H6.584V5.267H1.317V0Z" transform="translate(37.574 0) rotate(45)"/>
+        <path id="联合_8" data-name="联合 8" class="cls-8" d="M0,0V6.584H6.584V5.267H1.317V0Z" transform="translate(27.698 0) rotate(45)"/>
+        <path id="联合_11" data-name="联合 11" class="cls-8" d="M0,0V6.584H6.584V5.267H1.317V0Z" transform="translate(17.823 0) rotate(45)"/>
+        <path id="联合_14" data-name="联合 14" class="cls-8" d="M0,0V6.584H6.584V5.267H1.317V0Z" transform="translate(7.947 0) rotate(45)"/>
+        <path id="联合_6-3" data-name="联合 6" class="cls-8" d="M0,0V6.584H6.584V5.267H1.317V0Z" transform="translate(34.282 0) rotate(45)"/>
+        <path id="联合_7" data-name="联合 7" class="cls-8" d="M0,0V6.584H6.584V5.267H1.317V0Z" transform="translate(24.406 0) rotate(45)"/>
+        <path id="联合_10" data-name="联合 10" class="cls-8" d="M0,0V6.584H6.584V5.267H1.317V0Z" transform="translate(14.531 0) rotate(45)"/>
+        <path id="联合_13" data-name="联合 13" class="cls-8" d="M0,0V6.584H6.584V5.267H1.317V0Z" transform="translate(4.655 0) rotate(45)"/>
+      </g>
+      <g id="组_145" data-name="组 145" transform="translate(0 4.184)">
+        <rect id="矩形_35" data-name="矩形 35" class="cls-9" width="114.455" height="1.086"/>
+      </g>
+    </g>
+  </g>
+</svg>
